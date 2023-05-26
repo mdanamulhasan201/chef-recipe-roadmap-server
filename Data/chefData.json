@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "chef_name": "John Smith",
+    "chef_description": " London-based chef John Smith has been honing his skills in Spanish cuisine since his early days in Barcelona. With a passion for creating traditional flavours with a modern twist, he has established himself as an acclaimed chef in the city.",
+    "chef_picture": "https://images.pexels.com/photos/1397514/pexels-photo-1397514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "years_of_experience": 10,
+    "number_of_recipes": 50,
+    "likes": 5000,
+
+    "recipes": [
+      {
+        "recipe_name": "spaghetti carbonara recipe",
+        "recipe_img": "https://images.pexels.com/photos/769969/pexels-photo-769969.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "Ingredients": [
+          " 100g pancetta",
+          "50g pecorino cheese",
+          "50g parmesan",
+          "3 large eggs",
+          "350g spaghetti"
+        ],
+        "cooking_method": "Put a large saucepan of water on to boil.Finely chop the 100g pancetta, having first removed any rind. Finely grate 50g pecorino cheese and 50g parmesan and mix them together.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Beef Wellington",
+        "recipe_img": "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "cooking_method": "Heat oven to 220C/fan 200C/gas 7.Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.",
+        "Ingredients": [
+          " tbsp olive oil,",
+          "50g/2oz butter,",
+          "12 slices prosciutto,",
+          "1 large sprig fresh thyme,",
+          "a little flour, for dusting,"
+        ],
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Ultimate lobster rolls",
+        "recipe_img": "https://images.pexels.com/photos/6510294/pexels-photo-6510294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "cooking_method": "Crack the lobsters open using the back of a chef’s knife or a lobster cracker. Do this carefully so the shells don’t break into a lot of small pieces. Or, ask your fishmonger to remove the shells. Pull out the lobster meat and discard the shells. Roughly chop the meat into 2cm pieces, then put in a bowl, cover and chill until needed.",
+        "Ingredients": [
+          " 3-4 tbsp mayonnaise,",
+          "1 small lemon, juiced,",
+          "1 celery stalk, finely chopped,",
+          "1 large sprig fresh thyme,",
+          "a little flour, for dusting,"
+        ],
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_name": "Maria Hernandez",
+    "chef_description": "Maria Hernandez is the executive chef  a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine..",
+    "chef_picture": "https://images.pexels.com/photos/4252146/pexels-photo-4252146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "years_of_experience": 8,
+    "number_of_recipes": 30,
+    "likes": 3500,
+    "recipes": [
+      {
+        "recipe_name": "Lobster rolls",
+        "recipe_img": "https://images.pexels.com/photos/1422384/pexels-photo-1422384.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "cooking_method": "Heat oven to 220C/fan 200C/gas 7.Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.",
+        "Ingredients": [
+          " tbsp olive oil,",
+          "50g/2oz butter,",
+          "12 slices prosciutto,",
+          "1 large sprig fresh thyme,",
+          "a little flour, for dusting,"
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Tacos al Pastor",
+        "recipe_img": "https://images.pexels.com/photos/3642718/pexels-photo-3642718.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "cooking_method": "Heat oven to 220C/fan 200C/gas 7.Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.",
+        "Ingredients": [
+          " tbsp olive oil,",
+          "50g/2oz butter,",
+          "12 slices prosciutto,",
+          "1 large sprig fresh thyme,",
+          "a little flour, for dusting,"
+        ],
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Chicken chilli con carne",
+        "recipe_img": "https://images.pexels.com/photos/533325/pexels-photo-533325.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "cooking_method": "Heat oven to 220C/fan 200C/gas 7.Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.",
+        "Ingredients": [
+          " tbsp olive oil,",
+          "50g/2oz butter,",
+          "12 slices prosciutto,",
+          "1 large sprig fresh thyme,",
+          "a little flour, for dusting,"
+        ],
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_name": "Pierre Dupont",
+    "chef_description": "Pierre Dupont is the head chef  in London. Her resume is impressive and includes stints with some of the most prestigious chefs in the country. Her creative take on European classics make her an indispensable member of the restaurant’s staff. .",
+    "chef_picture": "https://images.pexels.com/photos/2544829/pexels-photo-2544829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "years_of_experience": 12,
+    "number_of_recipes": 70,
+    "likes": 12000,
+    "recipes": [
+      {
+        "recipe_name": "Coq au Vin",
+        "recipe_img": "https://images.pexels.com/photos/9114088/pexels-photo-9114088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "cooking_method": "Heat oven to 220C/fan 200C/gas 7.Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.",
+        "Ingredients": [
+          " tbsp olive oil",
+          "50g/2oz butter",
+          "12 slices prosciutto",
+          "1 large sprig fresh thyme",
+          "a little flour, for dusting"
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Ratatouille",
+        "recipe_img": "https://images.pexels.com/photos/533325/pexels-photo-533325.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "cooking_method": "Heat oven to 220C/fan 200C/gas 7.Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.",
+        "Ingredients": [
+          " tbsp olive oil",
+          "50g/2oz butter",
+          "12 slices prosciutto",
+          "1 large sprig fresh thyme",
+          "a little flour, for dusting"
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Crème Brûlée",
+        "recipe_img": "https://images.pexels.com/photos/533325/pexels-photo-533325.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "cooking_method": "Heat oven to 220C/fan 200C/gas 7.Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.",
+        "Ingredients": [
+          " tbsp olive oil",
+          "50g/2oz butter",
+          "12 slices prosciutto",
+          "1 large sprig fresh thyme",
+          "a little flour, for dusting"
+        ],
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_name": "Enchiladas Verdes",
+    "chef_description": "Enchiladas Verdes is a rising star in the culinary world. His signature Italian dishes have earned him fame and reputation in New Jersey. Happily married for 7 years, he works to bring the community together, celebrating the joys of living and eating well.",
+    "chef_picture": "https://images.pexels.com/photos/2544830/pexels-photo-2544830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "years_of_experience": 7,
+    "number_of_recipes": 60,
+    "likes": 9000,
+    "recipes": [
+      {
+        "recipe_name": "Coq au Vin",
+        "recipe_img": "https://images.pexels.com/photos/769969/pexels-photo-769969.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "Ingredients": [
+          " 100g pancetta",
+          "50g pecorino cheese",
+          "50g parmesan",
+          "3 large eggs",
+          "350g spaghetti"
+        ],
+        "cooking_method": "Put a large saucepan of water on to boil.Finely chop the 100g pancetta, having first removed any rind. Finely grate 50g pecorino cheese and 50g parmesan and mix them together.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Ratatouille",
+        "recipe_img": "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "cooking_method": "Heat oven to 220C/fan 200C/gas 7.Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.",
+        "Ingredients": [
+          " tbsp olive oil",
+          "50g/2oz butter",
+          "12 slices prosciutto",
+          "1 large sprig fresh thyme",
+          "a little flour, for dusting"
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Crème Brûlée",
+        "recipe_img": "https://images.pexels.com/photos/9114088/pexels-photo-9114088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "cooking_method": "Heat oven to 220C/fan 200C/gas 7.Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.",
+        "Ingredients": [
+          " tbsp olive oil",
+          "50g/2oz butter",
+          "12 slices prosciutto",
+          "1 large sprig fresh thyme",
+          "a little flour, for dusting"
+        ],
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_name": "Tacos al Pasto",
+    "chef_description": "San Diego’s master sushi chef, acos al Pasto, is an expert on traditional and modern sushi recipes. He is also a well-known artist, creating unique sushi sculptures for customers who want something unique.",
+    "chef_picture": "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "years_of_experience": 12,
+    "number_of_recipes": 90,
+    "likes": 7000,
+    "recipes": [
+      {
+        "recipe_name": "Coq au Vin",
+        "recipe_img": "https://images.pexels.com/photos/533325/pexels-photo-533325.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "cooking_method": "Heat oven to 220C/fan 200C/gas 7.Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.",
+        "Ingredients": [
+          " tbsp olive oil",
+          "50g/2oz butter",
+          "12 slices prosciutto",
+          "1 large sprig fresh thyme",
+          "a little flour, for dusting"
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Ratatouille",
+        "recipe_img": "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "cooking_method": "Heat oven to 220C/fan 200C/gas 7.Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.",
+        "Ingredients": [
+          " tbsp olive oil",
+          "50g/2oz butter",
+          "12 slices prosciutto",
+          "1 large sprig fresh thyme",
+          "a little flour, for dusting"
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Crème Brûlée",
+        "recipe_img": "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "cooking_method": "Heat oven to 220C/fan 200C/gas 7.Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.",
+        "Ingredients": [
+          " tbsp olive oil",
+          "50g/2oz butter",
+          "12 slices prosciutto",
+          "1 large sprig fresh thyme",
+          "a little flour, for dusting"
+        ],
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_name": "Mei Chen",
+    "chef_description": "Celebrity chef Mei Chen is the face behind many of the cooking shows you may have seen on television. Apart from being an incredibly talented chef and instructor, he also owns and runs five successful restaurants throughout the state of California..",
+    "chef_picture": "https://images.pexels.com/photos/3785693/pexels-photo-3785693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "years_of_experience": 7,
+    "number_of_recipes": 20,
+    "likes": 4200,
+    "recipes": [
+      {
+        "recipe_name": "Kung Pao Chicken",
+        "recipe_img": "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "cooking_method": "Heat oven to 220C/fan 200C/gas 7.Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.",
+        "Ingredients": [
+          " tbsp olive oil",
+          "50g/2oz butter",
+          "12 slices prosciutto",
+          "1 large sprig fresh thyme",
+          "a little flour, for dusting"
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Mapo Tofu",
+        "recipe_img": "https://images.pexels.com/photos/533325/pexels-photo-533325.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "cooking_method": "Heat oven to 220C/fan 200C/gas 7.Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.",
+        "Ingredients": [
+          " tbsp olive oil",
+          "50g/2oz butter",
+          "12 slices prosciutto",
+          "1 large sprig fresh thyme",
+          "a little flour, for dusting"
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Hot and Sour Soup",
+        "recipe_img": "https://images.pexels.com/photos/9114088/pexels-photo-9114088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "cooking_method": "Heat oven to 220C/fan 200C/gas 7.Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.",
+        "Ingredients": [
+          " tbsp olive oil",
+          "50g/2oz butter",
+          "12 slices prosciutto",
+          "1 large sprig fresh thyme",
+          "a little flour, for dusting"
+        ],
+        "rating": 4.3
+      }
+    ]
+  }
+]
